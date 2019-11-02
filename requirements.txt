@@ -2,4 +2,5 @@ ipython
 jupyter
 pyqt5
 pyqt5-tools
+PyQt5-Designer
 
